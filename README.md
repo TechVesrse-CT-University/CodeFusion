@@ -32,5 +32,4 @@ DeepBuzz is an AI-powered solution designed to detect deepfake images with preci
 
 ### Steps
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<YourGitHubUsername>/<YourRepoName>.git
+   git clone https://github.com/TechVesrse-CT-University/CodeFusion
